@@ -1,9 +1,0 @@
-.text-link-custom {
-	@apply text-right;
-	@apply text-lg;
-}
-
-.text-link-custom:hover {
-	@apply text-blue-500;
-	@apply transition duration-150 ease-in-out;
-}
